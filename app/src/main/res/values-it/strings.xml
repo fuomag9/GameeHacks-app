@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button">Apri</string>
+    <string name="button_info">\?</string>
+    <string name="gamee_link">Inserisci il link di Gamee</string>
+    <string name="score">Punteggio</string>
+    <string name="successful_hack">Hack avvenuto con successo!</string>
+    <string name="text_info">Apri il link con il relativo pulsante, ignora gli errori dell\'orientamento dello schermo, inserisci il punteggio desiderato e premi il pulsante Hack</string>
+</resources>

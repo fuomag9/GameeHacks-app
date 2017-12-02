@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">GameeHacks</string>
+    <string name="gamee_link">Insert your Gamee link</string>
+    <string name="button">Load</string>
+    <string name="score">Score</string>
+    <string name="Hack_button" translatable="false">Hack</string>
+    <string name="button_reset" translatable="false">Reset</string>
+    <string name="button_info">\?</string>
+    <string name="text_info">Load the game with the load button, ignore any error about the screen orientation, set your desired score and press the Hack button.</string>
+    <string name="successful_hack">Hacked successfully!</string>
+</resources>
